@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TH/bmi/bmi.iml" filepath="$PROJECT_DIR$/TH/bmi/bmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/day1.iml" filepath="$PROJECT_DIR$/.idea/day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH/dayofmonth/dayofmonth.iml" filepath="$PROJECT_DIR$/TH/dayofmonth/dayofmonth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH/giaiptbac1/giaiptbac1.iml" filepath="$PROJECT_DIR$/TH/giaiptbac1/giaiptbac1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH/leafyearth/leafyearth.iml" filepath="$PROJECT_DIR$/TH/leafyearth/leafyearth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH/operator/operator.iml" filepath="$PROJECT_DIR$/TH/operator/operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH/variable/variable.iml" filepath="$PROJECT_DIR$/TH/variable/variable.iml" />
+    </modules>
+  </component>
+</project>
