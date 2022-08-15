@@ -4,6 +4,10 @@ public class Main {
         System.out.println(calculate(4,5,'-'));
         System.out.println(calculate1(4,5,'-'));
 //        calculate(4,5,'-');
+        System.out.println(fizzBuzz(2));
+        System.out.println(Cylinder.getVolume(2,3));
+        System.out.println(Cylinder.getPerimeter(2));
+        System.out.println(Cylinder.getBaseArea(2));
     }
 
     public static int calculate(int firstOperand, int secondOperand, char operator) {
@@ -45,6 +49,21 @@ public class Main {
             default:
                 throw new RuntimeException("Unsupported operation");
         }
+    }
+    public static String fizzBuzz(int number){
+        boolean isFizz = number % 3 == 0;
+        boolean isBuzz = number % 5 == 0;
+
+        if(isFizz && isBuzz)
+            return "FizzBuzz";
+
+        if(isFizz)
+            return "Fizz";
+
+        if(isBuzz)
+            return "Buzz";
+
+        return number + "";
     }
 
 
