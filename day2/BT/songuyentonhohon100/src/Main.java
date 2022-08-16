@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         int N = 2;
 //        int count = 0;
+
         boolean check = true;
         while (N < 100) {
             check = true;

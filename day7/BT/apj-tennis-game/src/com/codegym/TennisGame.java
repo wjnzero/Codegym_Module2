@@ -60,4 +60,8 @@ public class TennisGame {
         }
         return score;
     }
+
+    public static void main(String[] args) {
+        System.out.println(getScore("hu","hug",2,3));
+    }
 }

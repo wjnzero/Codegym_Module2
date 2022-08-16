@@ -88,8 +88,8 @@ public class Main {
 
             }
         }
-        else if (number <= 100){
-
-        }
+//        else if (number <= 100){
+//
+//        }
     }
 }

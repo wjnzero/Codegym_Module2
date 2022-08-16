@@ -7,6 +7,7 @@ public class Student {
     }
 
     private void setName(String name) {
+
         this.name = name;
     }
 
@@ -14,3 +15,5 @@ public class Student {
         this.classes = classes;
     }
 }
+
+

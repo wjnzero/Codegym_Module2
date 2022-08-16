@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day1/TH/bmi/bmi.iml" filepath="$PROJECT_DIR$/day1/TH/bmi/bmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1/BT/convert/convert.iml" filepath="$PROJECT_DIR$/day1/BT/convert/convert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1/BT/convertmoney/convertmoney.iml" filepath="$PROJECT_DIR$/day1/BT/convertmoney/convertmoney.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1/TH/dayofmonth/dayofmonth.iml" filepath="$PROJECT_DIR$/day1/TH/dayofmonth/dayofmonth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1/TH/giaiptbac1/giaiptbac1.iml" filepath="$PROJECT_DIR$/day1/TH/giaiptbac1/giaiptbac1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1/BT/hello/hello.iml" filepath="$PROJECT_DIR$/day1/BT/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1/TH/leafyearth/leafyearth.iml" filepath="$PROJECT_DIR$/day1/TH/leafyearth/leafyearth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/module2.iml" filepath="$PROJECT_DIR$/.idea/module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1/TH/operator/operator.iml" filepath="$PROJECT_DIR$/day1/TH/operator/operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1/TH/showTime/showTime.iml" filepath="$PROJECT_DIR$/day1/TH/showTime/showTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1/TH/variable/variable.iml" filepath="$PROJECT_DIR$/day1/TH/variable/variable.iml" />
+    </modules>
+  </component>
+</project>
